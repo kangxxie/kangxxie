@@ -15,6 +15,7 @@ I'm a Computer and Electronic engineer (BSc) specializing in Software engineerin
 
 Web-first developer, now branching into desktop and mobile apps.
 Learning CUDA and GPU computing for high-performance applications.
+You can find a more aesthetically pleasing portfolio of my work <a href="https://kangxxie.github.io/">HERE</a>!
 
 ---
 
