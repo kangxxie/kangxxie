@@ -13,15 +13,15 @@
 
 I'm a Computer and Electronic engineer (BSc) specializing in Software engineering (MSc) at <a href="https://www.polito.it/">Politecnico di Torino</a>.
 
-Web-first developer, now branching into desktop and mobile apps.
-Learning CUDA and GPU computing for high-performance applications.
+Web-first developer, now branching into desktop and mobile apps.<br>
+Learning CUDA and GPU computing for high-performance applications.<br>
 You can find a more aesthetically pleasing portfolio of my work <a href="https://kangxxie.github.io/">HERE</a>!
 
 ---
 
 ## My work
 
-I've been building web applications for years, working end-to-end across frontend, backend, and deployment.
+I've been building web applications for a couple years, working end-to-end across frontend, backend, and deployment.
 My key projects are listed in the following section.
 
 ---
